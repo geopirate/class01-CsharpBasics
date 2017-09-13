@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\lab01-george.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\lab01-george\\lab01-george.csproj",
       "projectName": "lab01-george",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\lab01-george.csproj",
+      "projectPath": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\lab01-george\\lab01-george.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\obj\\",
+      "outputPath": "C:\\Users\\georg\\source\\repos\\class01-CsharpBasics\\lab01-george\\lab01-george\\lab01-george\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

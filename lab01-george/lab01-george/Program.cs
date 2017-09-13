@@ -90,10 +90,10 @@ namespace lab01_george
             bool badInput = true;
             Console.WriteLine("Please enter an integer");
             while (badInput)
-            {
+            {// exception block on my only really fragile code
                 string y = Console.ReadLine();
-                if (int.TryParse(y, out int z))
-                {
+                try {
+                    int z = Convert.ToInt32(y);
                     badInput = false;
                     if (CheckAge(z))
                     {
@@ -104,9 +104,24 @@ namespace lab01_george
                         return 0;
                     }
                 }
-                else
+                catch (FormatException)
                 {
                     Console.WriteLine("Please make another attempt to enter an integer");
+
+                }
+                catch (OverflowException e)
+                {
+                    // this wrecks things, but it was thrown
+                    throw(e);
+                }
+                catch (Exception monkeybutt)
+                {
+                    Console.WriteLine($"You threw an {monkeybutt}! This is probably really bad!");
+                    throw(monkeybutt);
+                }
+                finally
+                {
+                    Console.WriteLine("Have fun!");
                 }
             }
             return 0;
@@ -154,7 +169,7 @@ namespace lab01_george
 
         // this gets a true response or returns false
         static bool TrueFalse()
-        {
+        {// TODO potential try
             Console.WriteLine("Please enter true or false: ");
             string y = Console.ReadLine().ToLower();
             if (y == "true" || y == "t")
@@ -177,6 +192,7 @@ namespace lab01_george
             Console.WriteLine("7. PHP");
             Console.WriteLine("8. Java");
             Console.WriteLine("9. I'm done playing.");
+            // todo potential try
             string selectionString = Console.ReadLine();
             int.TryParse(selectionString, out int selection);
             switch (selection)
