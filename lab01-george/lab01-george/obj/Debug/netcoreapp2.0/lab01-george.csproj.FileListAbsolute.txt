@@ -1,0 +1,10 @@
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\bin\Debug\netcoreapp2.0\lab01-george.deps.json
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\bin\Debug\netcoreapp2.0\lab01-george.runtimeconfig.json
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\bin\Debug\netcoreapp2.0\lab01-george.runtimeconfig.dev.json
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\bin\Debug\netcoreapp2.0\lab01-george.dll
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\bin\Debug\netcoreapp2.0\lab01-george.pdb
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.AssemblyInfoInputs.cache
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.AssemblyInfo.cs
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.dll
+C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.pdb
