@@ -8,3 +8,4 @@ C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\D
 C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.AssemblyInfo.cs
 C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.dll
 C:\Users\Georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.pdb
+C:\Users\georg\source\repos\class01-CsharpBasics\lab01-george\lab01-george\obj\Debug\netcoreapp2.0\lab01-george.csprojResolveAssemblyReference.cache
